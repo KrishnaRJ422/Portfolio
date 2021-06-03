@@ -1,4 +1,4 @@
-# <center>Krishna Ravali Jammalamadaka</center>
+# <center><h1 style="font-size:30px">Krishna Ravali Jammalamadaka</center></h1>
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
 ## Education
