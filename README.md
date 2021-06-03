@@ -34,7 +34,6 @@ This project gives whether a user has good credit score along with exploring oth
 * **Python libraries used:** shap, eli5, PermutationImportance, aif360, fairlearn, TensorFlow
 * **Input:** financial information
 * **Output:** Credit score goodness of user (good/bad)
-* Project flow diagram:
 
-![project flow diagram](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI/blob/main/project_flow_diagram.PNG)
+![project flow diagram](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI/blob/main/project_flow_diagram.PNG "project flow diagram")
 
