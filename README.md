@@ -21,7 +21,7 @@ on 4 countries.
 • Responsible for data analysis, wrangling, integration, transformation, SQL query optimization, validation & 
 visualization.
 
-# [Project 1: Responsible AI] (https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI) (https://github.com/KrishnaRJ422/German-Credit-Status)
+## [Project 1: Responsible AI] (https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI) (https://github.com/KrishnaRJ422/German-Credit-Status)
 
 This project gives whether a user has good credit score along with exploring other aspects such as:
 1) explainable AI (black box explainers -shap, eli5), 
