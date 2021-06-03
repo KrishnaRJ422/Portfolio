@@ -1,4 +1,4 @@
-# Krishna Ravali Jammalamadaka
+# <center>Krishna Ravali Jammalamadaka</center>
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
 ## Education
