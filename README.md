@@ -1,15 +1,15 @@
-# <center><font color='crimson'>Krishna Ravali Jammalamadaka</font></center>
+# <center><font color='crimson'><b>Krishna Ravali Jammalamadaka</b></font></center>
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
 ## Education
-* MBA in Business Analytics 2019-21, University of Hyderabad, Hyderabad, India <b>CGPA: 9.2</b>
-* B.Tech in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India <b>CGPA: 9.0</b>
+* <b>MBA</b> in Business Analytics 2019-21, University of Hyderabad, Hyderabad, India <b>CGPA: 9.2</b>
+* <b>B.Tech</b> in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India <b>CGPA: 9.0</b>
 
 ## Professional Experience
-TATA CONSULTANCY SERVICES LTD – Hyderabad, India                                                                                                               2014 - Present 
+<b>TATA CONSULTANCY SERVICES LTD</b> – Hyderabad, India                                                                                                        2014 - Present 
 
-Client: A Fortune 500 banking client (2014-19) R
-Role / Designation: Data Engineer (BI) / IT Analyst 
+** Client: A Fortune 500 banking client (2014-19)
+** Role / Designation: Data Engineer (BI) / IT Analyst 
 
 * Responsible for creating automated ETL environment that integrates data pertaining to Risk & Treasury department 
 from multiple data sources (flat files, Teradata DB, Oracle DB) and different geographical locations into a data 
@@ -78,7 +78,7 @@ Sentiment Analysis is performed based on lexicons on data extracted from twitter
 
 ## <font color='violet'>Power BI</font>
 
-### Absenteeism at work
+### [Absenteeism at work]
 
 * [Source](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
 * [Visualization](https://github.com/KrishnaRJ422/POWER-BI-viz/blob/master/Absenteeism%20at%20work/Absenteeism%20at%20work%20at%20a%20courier%20company%20in%20brazil.pdf)
@@ -89,7 +89,7 @@ Visualized Absenteeism at work dataset of a Courier company in Brazil from July 
 
 [Tableau_public_profile](https://public.tableau.com/profile/krishna.j6856#!/)
 
-### Spotify data analysis
+### [Spotify data analysis]
 
 * [Source](https://www.kaggle.com/leonardopena/top-50-spotify-songs-by-each-country)
 * [Story](https://public.tableau.com/app/profile/krishna.j6856/viz/Spotifydataanalysis/spotifystoryboard)
@@ -98,10 +98,10 @@ Visualized Spotify dataset and derived insights from patterns in data containing
 
 ## <font color='violet'>Pyspark</font>
 
-### Delhi daily Climate data analysis
+### [Delhi daily Climate data analysis]
 
-[Source](https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data)
-[Link](https://github.com/KrishnaRJ422/pyspark_basics/blob/main/pyspark_practise2.ipynb)
+* [Source](https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data)
+* [Link](https://github.com/KrishnaRJ422/pyspark_basics/blob/main/pyspark_practise2.ipynb)
 
 Performed data analysis operations using pyspark on daily climate of Delhi dataset taken from kaggle containing data of 2017 for 4 months.
 
