@@ -23,8 +23,8 @@ visualization.
 
 ### [Project 1: Responsible AI] 
 
-[Git1](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI)
-[Git2](https://github.com/KrishnaRJ422/German-Credit-Status)
+* [Git1](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI)
+* [Git2](https://github.com/KrishnaRJ422/German-Credit-Status)
 
 This project gives whether a user has good credit score along with exploring other aspects such as:
 1) explainable AI (black box explainers -shap, eli5), 
