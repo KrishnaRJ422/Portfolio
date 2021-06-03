@@ -11,14 +11,14 @@ TATA CONSULTANCY SERVICES LTD – Hyderabad, India                              
 Client: A Fortune 500 banking client (2014-19) R
 Role / Designation: Data Engineer (BI) / IT Analyst 
 
-• Responsible for creating automated ETL environment that integrates data pertaining to Risk & Treasury department 
+* Responsible for creating automated ETL environment that integrates data pertaining to Risk & Treasury department 
 from multiple data sources (flat files, Teradata DB, Oracle DB) and different geographical locations into a data 
 mart which is used in generating regulatory and compliance reports submitted to Federal Reserve Bank
-• Automated the process of DataStage job batch run by creating an oracle schedule framework which reduced the run 
+* Automated the process of DataStage job batch run by creating an oracle schedule framework which reduced the run 
 time significantly from 10 hrs to 30mins for India for each run date.
-• Delivered high risk and critical parallel tasks in different LOB’s of around 15 countries with complete ownership 
+* Delivered high risk and critical parallel tasks in different LOB’s of around 15 countries with complete ownership 
 on 4 countries.
-• Responsible for data analysis, wrangling, integration, transformation, SQL query optimization, validation & 
+* Responsible for data analysis, wrangling, integration, transformation, SQL query optimization, validation & 
 visualization.
 
 ### [Project 1: Responsible AI] (https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI) (https://github.com/KrishnaRJ422/German-Credit-Status)
