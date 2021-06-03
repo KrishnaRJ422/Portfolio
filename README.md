@@ -96,6 +96,15 @@ Visualized Absenteeism at work dataset of a Courier company in Brazil from July 
 
 Visualized Spotify dataset and derived insights from patterns in data containing details of top 50 songs from 1942-2019 like most popular genre over year like, popular song per year by country, artist with more top songs.
 
+## Pyspark
+
+### Delhi daily Climate data analysis
+
+[Source](https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data)
+[Link](https://github.com/KrishnaRJ422/pyspark_basics/blob/main/pyspark_practise2.ipynb)
+
+Performed data analysis operations using pyspark on daily climate of Delhi dataset taken from kaggle containing data of 2017 for 4 months.
+
 
 
 
