@@ -2,8 +2,8 @@
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
 ## Education
-* MBA in Business Analytics 2019-21, University of Hyderabad, Hyderabad, India CGPA: 9.2
-* B.Tech in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India CGPA: 9.0
+* MBA in Business Analytics 2019-21, University of Hyderabad, Hyderabad, India <b>CGPA: 9.2</b>
+* B.Tech in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India <b>CGPA: 9.0</b>
 
 ## Professional Experience
 TATA CONSULTANCY SERVICES LTD – Hyderabad, India                                                                                                               2014 - Present 
@@ -20,6 +20,8 @@ time significantly from 10 hrs to 30mins for India for each run date.
 on 4 countries.
 * Responsible for data analysis, wrangling, integration, transformation, SQL query optimization, validation & 
 visualization.
+
+## Machine Learning
 
 ### [Project 1: Responsible AI] 
 
@@ -50,6 +52,8 @@ This project gives whether a credit card transaction is fraudulent or not:
 * **Input:** encoded user information
 * **Output:** Credit card transaction fraudulent or not
 
+## Deep Learning
+
 ### [Project 3: Customer churn prediction] 
 
 * [Source](https://www.kaggle.com/santoshd3/bank-customers?select=Churn+Modeling.csv)
@@ -59,4 +63,42 @@ The purpose of this project is to improve the F1-Score from baseline model value
 * **Technical Stack:** python, Tensorflow, ADASYN, GridSearch, RandomSearch.
 * **Input:** demographic and financial information of user
 * **Output:** Predicts if a customer churns or not
+
+## NLP
+
+### [Project 4: Lexicon based Sentiment Analysis] 
+
+* Source: Twitter data
+* [Link](https://github.com/KrishnaRJ422/Twitter-Sentiment-Analysis)
+
+Sentiment Analysis is performed based on lexicons on data extracted from twitter on topics #powerwomen, #forbeswomen. LDA, a topic modelling technique is used to identify the highly probable topic.
+* **Programming Language:** R
+* **Input:** Twitter tweet text
+* **Outcome:** Gives sentiments, emotions associated and topic identification.
+
+## Power BI
+
+### Absenteeism at work
+
+* [Source](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
+* [Visualization](https://github.com/KrishnaRJ422/POWER-BI-viz/blob/master/Absenteeism%20at%20work/Absenteeism%20at%20work%20at%20a%20courier%20company%20in%20brazil.pdf)
+
+Visualized Absenteeism at work dataset of a Courier company in Brazil from July 2007 to July 2010 and derived insights on most common associations observed with absenteeism using Power BI.
+
+## Tableau
+
+[Tableau_public_profile](https://public.tableau.com/profile/krishna.j6856#!/)
+
+### Spotify data analysis
+
+* [Source](https://www.kaggle.com/leonardopena/top-50-spotify-songs-by-each-country)
+* [Story](https://public.tableau.com/app/profile/krishna.j6856/viz/Spotifydataanalysis/spotifystoryboard)
+
+Visualized Spotify dataset and derived insights from patterns in data containing details of top 50 songs from 1942-2019 like most popular genre over year like, popular song per year by country, artist with more top songs.
+
+
+
+
+
+
 
