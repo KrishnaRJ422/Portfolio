@@ -23,17 +23,40 @@ visualization.
 
 ### [Project 1: Responsible AI] 
 
-* [Git1](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI)
-* [Git2](https://github.com/KrishnaRJ422/German-Credit-Status)
+* [XAI](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI)
+* [Deployment](https://github.com/KrishnaRJ422/German-Credit-Status)
+* [Source](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29)
+* [app](https://credit-score-status.herokuapp.com/)
 
 This project gives whether a user has good credit score along with exploring other aspects such as:
 1) explainable AI (black box explainers -shap, eli5), 
-2) Senstitivity Analysis(Google's what-if tool)
-3) Disparate Impact Analysis(H2O.ai)
+2) Senstitivity Analysis
+3) Disparate Impact Analysis
 
 * **Python libraries used:** shap, eli5, PermutationImportance, aif360, fairlearn, TensorFlow
+* **Technical Stack:** H2O.ai, heroku, python, docker, Google's What-if tool
 * **Input:** financial information
 * **Output:** Credit score goodness of user (good/bad)
 
-<img src="https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI/blob/main/project_flow_diagram.PNG" alt="project flow diagram">
+### [Project 2: Anomaly detection in Credit card transactions] 
+
+* [Comparative study](https://github.com/KrishnaRJ422/credit-card-fraud-detection)
+* [Deployment](https://github.com/KrishnaRJ422/credit-fraud-detection)
+* [Source](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+* [app](https://credit-fraud-detection.herokuapp.com/)
+
+This project gives whether a credit card transaction is fraudulent or not:
+* **Technical Stack:** H2O.ai, heroku, python, dialog flow chatbot.
+* **Input:** encoded user information
+* **Output:** Credit card transaction fraudulent or not
+
+### [Project 3: Customer churn prediction] 
+
+* [Source](https://www.kaggle.com/santoshd3/bank-customers?select=Churn+Modeling.csv)
+* [Link](https://krishnarj422.github.io/Churn-Prediction-Modeling/Churn_prediction_using_deep_learning.html)
+
+The purpose of this project is to improve the F1-Score from baseline model value of 76%. Techniques like feature scaling, hyper parameter tuning, re-sampling were used.
+* **Technical Stack:** python, Tensorflow, ADASYN, GridSearch, RandomSearch.
+* **Input:** demographic and financial information of user
+* **Output:** Predicts if a customer churns or not
 
