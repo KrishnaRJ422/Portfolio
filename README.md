@@ -5,7 +5,7 @@
 * <b>MBA</b> in Business Analytics 2019-21, University of Hyderabad, Hyderabad, India <b>CGPA: 9.2</b>
 * <b>B.Tech</b> in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India <b>CGPA: 9.0</b>
 
-## <font color='orage'>Professional Experience</font>
+## <font color='orange'>Professional Experience</font>
 <b>TATA CONSULTANCY SERVICES LTD</b> – Hyderabad, India                                                                                                        2014 - Present 
 
 ** Client: A Fortune 500 banking client (2014-19)
@@ -105,7 +105,16 @@ Visualized Spotify dataset and derived insights from patterns in data containing
 
 Performed data analysis operations using pyspark on daily climate of Delhi dataset taken from kaggle containing data of 2017 for 4 months.
 
-
+## <font color='brown'>Certifications>/font>
+  
+  * [AI Data fairness and Bias](https://www.coursera.org/account/accomplishments/verify/X3FBBKGW6FFQ)
+  * [Forensic Accounting and Fraud Examination](https://www.coursera.org/account/accomplishments/verify/TX3K3FGQEQAR)
+  * [Social Media Data Analytics}(https://www.coursera.org/account/accomplishments/verify/NZHPZ7EZZDTB)
+  * [Anomaly Detection in Time Series data with Keras](https://www.coursera.org/account/accomplishments/verify/S4ZB3REQPKGZ)
+  * [Agile Software Development](https://www.coursera.org/account/accomplishments/verify/M6PU8LJQEKEE)
+  * [Basic Statistics](https://www.coursera.org/account/accomplishments/verify/G4AEDJBKLSHR)
+  * [Fundamentals of Scalable Data Science](https://www.coursera.org/account/accomplishments/verify/PN5DE4W5L2VE)
+  * [Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/verify/M3E2HABLVDJR)
 
 
 
