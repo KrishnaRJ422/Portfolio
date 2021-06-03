@@ -1,4 +1,4 @@
-# <center><h1 style="font-size:30px">Krishna Ravali Jammalamadaka</center></h1>
+# <center>Krishna Ravali Jammalamadaka</center>
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
 ## Education
@@ -33,5 +33,6 @@ This project gives whether a user has good credit score along with exploring oth
 * **Output:** Credit score goodness of user (good/bad)
 * Project flow diagram:
 
-![project flow diagram](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI/blob/main/project_flow_diagram.PNG "flow diagram")
+![project flow diagram]( https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI/blob/main/project_flow_diagram.png
+"flow diagram")
 
