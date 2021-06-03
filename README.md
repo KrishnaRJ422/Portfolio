@@ -1,11 +1,11 @@
 # <center><font color='crimson'><b>Krishna Ravali Jammalamadaka</b></font></center>
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
-## Education
+## <font color='orange'>Education</font>
 * <b>MBA</b> in Business Analytics 2019-21, University of Hyderabad, Hyderabad, India <b>CGPA: 9.2</b>
 * <b>B.Tech</b> in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India <b>CGPA: 9.0</b>
 
-## Professional Experience
+## <font color='orage'>Professional Experience</font>
 <b>TATA CONSULTANCY SERVICES LTD</b> – Hyderabad, India                                                                                                        2014 - Present 
 
 ** Client: A Fortune 500 banking client (2014-19)
