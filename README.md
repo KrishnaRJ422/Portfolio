@@ -1,4 +1,4 @@
-# <center>Krishna Ravali Jammalamadaka</center>
+# <center><font color='crimson'>Krishna Ravali Jammalamadaka</font></center>
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
 ## Education
@@ -21,7 +21,7 @@ on 4 countries.
 * Responsible for data analysis, wrangling, integration, transformation, SQL query optimization, validation & 
 visualization.
 
-## Machine Learning
+## <font color='violet'>Machine Learning</font>
 
 ### [Project 1: Responsible AI] 
 
@@ -52,7 +52,7 @@ This project gives whether a credit card transaction is fraudulent or not:
 * **Input:** encoded user information
 * **Output:** Credit card transaction fraudulent or not
 
-## Deep Learning
+## <font color='violet'>Deep Learning</font>
 
 ### [Project 3: Customer churn prediction] 
 
@@ -64,7 +64,7 @@ The purpose of this project is to improve the F1-Score from baseline model value
 * **Input:** demographic and financial information of user
 * **Output:** Predicts if a customer churns or not
 
-## NLP
+## <font color='violet'>NLP</font>
 
 ### [Project 4: Lexicon based Sentiment Analysis] 
 
@@ -76,7 +76,7 @@ Sentiment Analysis is performed based on lexicons on data extracted from twitter
 * **Input:** Twitter tweet text
 * **Outcome:** Gives sentiments, emotions associated and topic identification.
 
-## Power BI
+## <font color='violet'>Power BI</font>
 
 ### Absenteeism at work
 
@@ -85,7 +85,7 @@ Sentiment Analysis is performed based on lexicons on data extracted from twitter
 
 Visualized Absenteeism at work dataset of a Courier company in Brazil from July 2007 to July 2010 and derived insights on most common associations observed with absenteeism using Power BI.
 
-## Tableau
+## <font color='violet'>Tableau</font>
 
 [Tableau_public_profile](https://public.tableau.com/profile/krishna.j6856#!/)
 
@@ -96,7 +96,7 @@ Visualized Absenteeism at work dataset of a Courier company in Brazil from July 
 
 Visualized Spotify dataset and derived insights from patterns in data containing details of top 50 songs from 1942-2019 like most popular genre over year like, popular song per year by country, artist with more top songs.
 
-## Pyspark
+## <font color='violet'>Pyspark</font>
 
 ### Delhi daily Climate data analysis
 
