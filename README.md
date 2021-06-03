@@ -105,11 +105,11 @@ Visualized Spotify dataset and derived insights from patterns in data containing
 
 Performed data analysis operations using pyspark on daily climate of Delhi dataset taken from kaggle containing data of 2017 for 4 months.
 
-## <font color='brown'>Certifications>/font>
+## <font color='brown'>Certifications</font>
   
   * [AI Data fairness and Bias](https://www.coursera.org/account/accomplishments/verify/X3FBBKGW6FFQ)
   * [Forensic Accounting and Fraud Examination](https://www.coursera.org/account/accomplishments/verify/TX3K3FGQEQAR)
-  * [Social Media Data Analytics}(https://www.coursera.org/account/accomplishments/verify/NZHPZ7EZZDTB)
+  * [Social Media Data Analytics](https://www.coursera.org/account/accomplishments/verify/NZHPZ7EZZDTB)
   * [Anomaly Detection in Time Series data with Keras](https://www.coursera.org/account/accomplishments/verify/S4ZB3REQPKGZ)
   * [Agile Software Development](https://www.coursera.org/account/accomplishments/verify/M6PU8LJQEKEE)
   * [Basic Statistics](https://www.coursera.org/account/accomplishments/verify/G4AEDJBKLSHR)
