@@ -6,7 +6,7 @@
 * B.Tech in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India CGPA: 9.0
 
 ## Professional Experience
-TATA CONSULTANCY SERVICES LTD – Hyderabad, India                                                                                                                  2014 - Present 
+TATA CONSULTANCY SERVICES LTD – Hyderabad, India                                                                                                               2014 - Present 
 
 Client: A Fortune 500 banking client (2014-19) R
 Role / Designation: Data Engineer (BI) / IT Analyst 
