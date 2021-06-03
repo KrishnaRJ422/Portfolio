@@ -35,5 +35,5 @@ This project gives whether a user has good credit score along with exploring oth
 * **Input:** financial information
 * **Output:** Credit score goodness of user (good/bad)
 
-![project flow diagram](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI/blob/main/project_flow_diagram.PNG "project flow diagram")
+<img src="https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI/blob/main/project_flow_diagram.PNG" alt="project flow diagram">
 
