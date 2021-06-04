@@ -94,7 +94,6 @@ Visualized Absenteeism at work dataset of a Courier company in Brazil from July 
 ### Spotify data analysis
 
 * [Data Source](https://www.kaggle.com/leonardopena/top-50-spotify-songs-by-each-country)
-* [Story](https://public.tableau.com/app/profile/krishna.j6856/viz/Spotifydataanalysis/spotifystoryboard)
 
 <div class='tableauPlaceholder' id='viz1622817151362' style='position: relative'><noscript>
 <a href='https://public.tableau.com/app/profile/krishna.j6856/viz/Spotifydataanalysis/spotifystoryboard'><img alt='Exploratory Data Analysis on Spotify data ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;99&#47;99XM88Y2M&#47;1_rss.png' style='border: none' /></a>
