@@ -41,7 +41,7 @@ This project gives whether a user has good credit score along with exploring oth
 * **Input:** financial information
 * **Output:** Credit score goodness of user (good/bad)
 
-### Project 2: Anomaly detection in Credit card transactions (Apr2020 - Nov 2020)
+### Project 2: Anomaly detection in Credit card transactions : (Apr2020 - Nov 2020)
 
 <a href="https://credit-fraud-detection.herokuapp.com/"><img alt="Fraud Detection App" src="https://www.eastwestbank.com/ReachFurther/NewsArticleStore/519/Credit-card-fraud-top.jpg" width="150" height="70"></a>[Click on image for app]
                                                                                                                            
@@ -68,7 +68,7 @@ The purpose of this project is to improve the F1-Score from baseline model value
 
 ## <font color='violet'>NLP</font>
 
-### [Project 4: Lexicon based Sentiment Analysis] 
+### Project 4: Lexicon based Sentiment Analysis
 
 * Source: Twitter data
 * [Link](https://github.com/KrishnaRJ422/Twitter-Sentiment-Analysis)
@@ -80,7 +80,7 @@ Sentiment Analysis is performed based on lexicons on data extracted from twitter
 
 ## <font color='violet'>Power BI</font>
 
-### [Absenteeism at work]
+### Absenteeism at work
 
 * [Source](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
 * [Visualization](https://github.com/KrishnaRJ422/POWER-BI-viz/blob/master/Absenteeism%20at%20work/Absenteeism%20at%20work%20at%20a%20courier%20company%20in%20brazil.pdf)
@@ -91,7 +91,7 @@ Visualized Absenteeism at work dataset of a Courier company in Brazil from July 
 
 [Tableau_public_profile](https://public.tableau.com/profile/krishna.j6856#!/)
 
-### [Spotify data analysis]
+### Spotify data analysis
 
 * [Source](https://www.kaggle.com/leonardopena/top-50-spotify-songs-by-each-country)
 * [Story](https://public.tableau.com/app/profile/krishna.j6856/viz/Spotifydataanalysis/spotifystoryboard)
@@ -100,7 +100,7 @@ Visualized Spotify dataset and derived insights from patterns in data containing
 
 ## <font color='violet'>Pyspark</font>
 
-### [Delhi daily Climate data analysis]
+### Delhi daily Climate data analysis
 
 * [Source](https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data)
 * [Link](https://github.com/KrishnaRJ422/pyspark_basics/blob/main/pyspark_practise2.ipynb)
