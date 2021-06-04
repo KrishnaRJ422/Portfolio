@@ -42,7 +42,7 @@ This project gives whether a user has good credit score along with exploring oth
 
 ### [Project 2: Anomaly detection in Credit card transactions] 
 
-<a href="https://credit-fraud-detection.herokuapp.com/"<img alt="Fraud Detection App" src="https://www.eastwestbank.com/ReachFurther/NewsArticleStore/519/Credit-card-fraud-top.jpg" width="150" height="70"></a>[Click for app]
+<a href="https://credit-fraud-detection.herokuapp.com/"><img alt="Fraud Detection App" src="https://www.eastwestbank.com/ReachFurther/NewsArticleStore/519/Credit-card-fraud-top.jpg" width="150" height="70"></a>[Click on image for app]
                                                                                                                            
 * [Comparative study](https://github.com/KrishnaRJ422/credit-card-fraud-detection)
 * [Deployment](https://github.com/KrishnaRJ422/credit-fraud-detection)
