@@ -30,7 +30,7 @@ visualization.
 
 * [XAI](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI)
 * [Deployment](https://github.com/KrishnaRJ422/German-Credit-Status)
-* [Source](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29)
+* [Data Source](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29)
 
 This project gives whether a user has good credit score along with exploring other aspects such as:
 1) explainable AI (black box explainers -shap, eli5), 
@@ -48,7 +48,7 @@ This project gives whether a user has good credit score along with exploring oth
                                                                                                                            
 * [Comparative study](https://github.com/KrishnaRJ422/credit-card-fraud-detection)
 * [Deployment](https://github.com/KrishnaRJ422/credit-fraud-detection)
-* [Source](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+* [Data Source](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 This project gives whether a credit card transaction is fraudulent or not:
 * **Technical Stack:** H2O.ai, heroku, python, dialog flow chatbot.
@@ -59,7 +59,7 @@ This project gives whether a credit card transaction is fraudulent or not:
 
 ### Project 3: Customer churn prediction
 
-* [Source](https://www.kaggle.com/santoshd3/bank-customers?select=Churn+Modeling.csv)
+* [Data Source](https://www.kaggle.com/santoshd3/bank-customers?select=Churn+Modeling.csv)
 * [Link](https://krishnarj422.github.io/Churn-Prediction-Modeling/Churn_prediction_using_deep_learning.html)
 
 The purpose of this project is to improve the F1-Score from baseline model value of 76%. Techniques like feature scaling, hyper parameter tuning, re-sampling were used.
@@ -83,10 +83,9 @@ Sentiment Analysis is performed based on lexicons on data extracted from twitter
 
 ### Absenteeism at work
 
-* [Source](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
-* [Visualization](https://github.com/KrishnaRJ422/POWER-BI-viz/blob/master/Absenteeism%20at%20work/Absenteeism%20at%20work%20at%20a%20courier%20company%20in%20brazil.pdf)
+* [Data Source](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
 
-<img alt="Visualization" src="Absentism at work at a courier company in Brazil.PNG" width="450" height="450">
+<img alt="Visualization" src="Absentism at work at a courier company in Brazil.PNG" width="750" height="450">
 
 Visualized Absenteeism at work dataset of a Courier company in Brazil from July 2007 to July 2010 and derived insights on most common associations observed with absenteeism using Power BI.
 
@@ -94,7 +93,7 @@ Visualized Absenteeism at work dataset of a Courier company in Brazil from July 
 
 ### Spotify data analysis
 
-* [Source](https://www.kaggle.com/leonardopena/top-50-spotify-songs-by-each-country)
+* [Data Source](https://www.kaggle.com/leonardopena/top-50-spotify-songs-by-each-country)
 * [Story](https://public.tableau.com/app/profile/krishna.j6856/viz/Spotifydataanalysis/spotifystoryboard)
 
 Visualized Spotify dataset and derived insights from patterns in data containing details of top 50 songs from 1942-2019 like most popular genre over year like, popular song per year by country, artist with more top songs.
@@ -103,7 +102,7 @@ Visualized Spotify dataset and derived insights from patterns in data containing
 
 ### Delhi daily Climate data analysis
 
-* [Source](https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data)
+* [Data Source](https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data)
 * [Link](https://github.com/KrishnaRJ422/pyspark_basics/blob/main/pyspark_practise2.ipynb)
 
 Performed data analysis operations using pyspark on daily climate of Delhi dataset taken from kaggle containing data of 2017 for 4 months.
