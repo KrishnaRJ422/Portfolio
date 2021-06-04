@@ -89,8 +89,6 @@ Visualized Absenteeism at work dataset of a Courier company in Brazil from July 
 
 ## <font color='violet'>Tableau</font>
 
-[Tableau_public_profile](https://public.tableau.com/profile/krishna.j6856#!/)
-
 ### Spotify data analysis
 
 * [Source](https://www.kaggle.com/leonardopena/top-50-spotify-songs-by-each-country)
@@ -119,6 +117,9 @@ Performed data analysis operations using pyspark on daily climate of Delhi datas
   * [Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/verify/M3E2HABLVDJR)
 
 
+[GitHub](https://github.com/KrishnaRJ422?tab=repositories)   
+[Tableau_profile](https://public.tableau.com/profile/krishna.j6856#!/)  
+[LinkedIn](https://www.linkedin.com/in/krishna-j-2a4838116/)
 
 
 
