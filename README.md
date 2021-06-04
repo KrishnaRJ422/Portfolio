@@ -1,4 +1,4 @@
-# <center><font color='crimson'><b>Krishna Ravali Jammalamadaka</b></font></center>
+# <center><font color='crimson'>Hello! I'm <b>Krishna Ravali Jammalamadaka</b></font></center>
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
 ## <font color='olive'>Education</font>
@@ -42,6 +42,8 @@ This project gives whether a user has good credit score along with exploring oth
 
 ### [Project 2: Anomaly detection in Credit card transactions] 
 
+<img alt="Anomaly detection" src="https://freeprojectsforall.com/wp-content/uploads/2017/10/cre.jpg" width="150" height="70">
+                                                                                                                           
 * [Comparative study](https://github.com/KrishnaRJ422/credit-card-fraud-detection)
 * [Deployment](https://github.com/KrishnaRJ422/credit-fraud-detection)
 * [Source](https://www.kaggle.com/mlg-ulb/creditcardfraud)
