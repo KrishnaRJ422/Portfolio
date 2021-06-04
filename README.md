@@ -25,10 +25,11 @@ visualization.
 
 ### [Project 1: Responsible AI] 
 
+<a href="https://credit-score-status.herokuapp.com/"><img alt="Credit Score goodness App" src="https://www.practicalcredit.com/wp-content/uploads/2018/11/good-bad-credit.jpg" width="150" height="70"></a>[Click on image for app]
+
 * [XAI](https://github.com/KrishnaRJ422/Explainability_Bias_Fairness-in-AI)
 * [Deployment](https://github.com/KrishnaRJ422/German-Credit-Status)
 * [Source](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29)
-* [app](https://credit-score-status.herokuapp.com/)
 
 This project gives whether a user has good credit score along with exploring other aspects such as:
 1) explainable AI (black box explainers -shap, eli5), 
@@ -47,7 +48,6 @@ This project gives whether a user has good credit score along with exploring oth
 * [Comparative study](https://github.com/KrishnaRJ422/credit-card-fraud-detection)
 * [Deployment](https://github.com/KrishnaRJ422/credit-fraud-detection)
 * [Source](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-* [app](https://credit-fraud-detection.herokuapp.com/)
 
 This project gives whether a credit card transaction is fraudulent or not:
 * **Technical Stack:** H2O.ai, heroku, python, dialog flow chatbot.
