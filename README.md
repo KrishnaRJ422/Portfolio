@@ -86,6 +86,8 @@ Sentiment Analysis is performed based on lexicons on data extracted from twitter
 * [Source](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
 * [Visualization](https://github.com/KrishnaRJ422/POWER-BI-viz/blob/master/Absenteeism%20at%20work/Absenteeism%20at%20work%20at%20a%20courier%20company%20in%20brazil.pdf)
 
+<img alt="Visualization" src="" width="150" height="70"></a>[Click on image for app]
+
 Visualized Absenteeism at work dataset of a Courier company in Brazil from July 2007 to July 2010 and derived insights on most common associations observed with absenteeism using Power BI.
 
 ## <font color='violet'>Tableau</font>
