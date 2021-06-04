@@ -1,6 +1,6 @@
 # <center><font color='crimson'>Hello! I'm <b>Krishna Ravali Jammalamadaka</b></font></center>
 
-[GitHub](https://github.com/KrishnaRJ422?tab=repositories/)   [Tableau_profile](https://public.tableau.com/profile/krishna.j6856#!/)   [LinkedIn](https://www.linkedin.com/in/krishna-j-2a4838116/)
+** [GitHub](https://github.com/KrishnaRJ422?tab=repositories/)   ** [Tableau_profile](https://public.tableau.com/profile/krishna.j6856#!/)   ** [LinkedIn](https://www.linkedin.com/in/krishna-j-2a4838116/)
 
 ## <font color='olive'>Education</font>
 * <b>MBA</b> in Business Analytics 2019-21, University of Hyderabad, Hyderabad, India <b>CGPA: 9.2</b>
