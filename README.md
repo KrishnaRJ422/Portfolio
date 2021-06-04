@@ -23,7 +23,7 @@ visualization.
 
 ## <font color='violet'>Machine Learning</font>
 
-### [Project 1: Responsible AI] 
+### Project 1: Responsible AI : (Dec 2020 - May 2021)
 
 <a href="https://credit-score-status.herokuapp.com/"><img alt="Credit Score goodness App" src="https://www.practicalcredit.com/wp-content/uploads/2018/11/good-bad-credit.jpg" width="150" height="70"></a>[Click on image for app]
 
@@ -41,7 +41,7 @@ This project gives whether a user has good credit score along with exploring oth
 * **Input:** financial information
 * **Output:** Credit score goodness of user (good/bad)
 
-### [Project 2: Anomaly detection in Credit card transactions] 
+### Project 2: Anomaly detection in Credit card transactions (Apr2020 - Nov 2020)
 
 <a href="https://credit-fraud-detection.herokuapp.com/"><img alt="Fraud Detection App" src="https://www.eastwestbank.com/ReachFurther/NewsArticleStore/519/Credit-card-fraud-top.jpg" width="150" height="70"></a>[Click on image for app]
                                                                                                                            
@@ -56,7 +56,7 @@ This project gives whether a credit card transaction is fraudulent or not:
 
 ## <font color='violet'>Deep Learning</font>
 
-### [Project 3: Customer churn prediction] 
+### Project 3: Customer churn prediction
 
 * [Source](https://www.kaggle.com/santoshd3/bank-customers?select=Churn+Modeling.csv)
 * [Link](https://krishnarj422.github.io/Churn-Prediction-Modeling/Churn_prediction_using_deep_learning.html)
