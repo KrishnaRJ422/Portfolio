@@ -1,5 +1,4 @@
 # <center><font color='crimson'>Hello! I'm <b>Krishna Ravali Jammalamadaka</b></font></center>
-*Aspiring opportunities in the field of Data Science and AI/ML*
 
 [GitHub](https://github.com/KrishnaRJ422?tab=repositories/)   [Tableau_profile](https://public.tableau.com/profile/krishna.j6856#!/)   [LinkedIn](https://www.linkedin.com/in/krishna-j-2a4838116/)
 
