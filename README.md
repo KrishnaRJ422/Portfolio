@@ -1,6 +1,8 @@
 # <center><font color='crimson'>Hello! I'm <b>Krishna Ravali Jammalamadaka</b></font></center>
 *Aspiring opportunities in the field of Data Science and AI/ML*
 
+<center>[GitHub](https://github.com/KrishnaRJ422?tab=repositories)   [Tableau_profile](https://public.tableau.com/profile/krishna.j6856#!/)   [LinkedIn](https://www.linkedin.com/in/krishna-j-2a4838116/)</center>
+
 ## <font color='olive'>Education</font>
 * <b>MBA</b> in Business Analytics 2019-21, University of Hyderabad, Hyderabad, India <b>CGPA: 9.2</b>
 * <b>B.Tech</b> in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India <b>CGPA: 9.0</b>
@@ -117,7 +119,6 @@ Performed data analysis operations using pyspark on daily climate of Delhi datas
   * [Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/verify/M3E2HABLVDJR)
 
 
-<font color='orange'>[GitHub](https://github.com/KrishnaRJ422?tab=repositories)   [Tableau_profile](https://public.tableau.com/profile/krishna.j6856#!/)   [LinkedIn](https://www.linkedin.com/in/krishna-j-2a4838116/)</font>
 
 
 
