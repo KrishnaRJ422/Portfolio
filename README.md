@@ -117,9 +117,7 @@ Performed data analysis operations using pyspark on daily climate of Delhi datas
   * [Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/verify/M3E2HABLVDJR)
 
 
-[GitHub](https://github.com/KrishnaRJ422?tab=repositories)   
-[Tableau_profile](https://public.tableau.com/profile/krishna.j6856#!/)  
-[LinkedIn](https://www.linkedin.com/in/krishna-j-2a4838116/)
+<font color='orange'>[GitHub](https://github.com/KrishnaRJ422?tab=repositories)   [Tableau_profile](https://public.tableau.com/profile/krishna.j6856#!/)   [LinkedIn](https://www.linkedin.com/in/krishna-j-2a4838116/)</font>
 
 
 
