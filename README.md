@@ -10,17 +10,19 @@
 <b>TATA CONSULTANCY SERVICES LTD</b> – Hyderabad, India                                                                                                        2014 - Present 
 
 ** Client: A Fortune 500 banking client (2014-19)
-** Role: Data Engineer (BI)
 
-* Responsible for creating automated ETL environment that integrates data pertaining to Risk & Treasury department 
-from multiple data sources (flat files, Teradata DB, Oracle DB) and different geographical locations into a data 
-mart which is used in generating regulatory and compliance reports submitted to Federal Reserve Bank
-* Automated the process of DataStage job batch run by creating an oracle schedule framework which reduced the run 
-time significantly from 10 hrs to 30mins for India for each run date.
+<b>Data Scientist</b>                                                                                                                                                2017-2019
+* Worked on Big data migration and AI integration project
+* Responsible for creating visualizations for exploratory data analysis
+* Worked on data cleaning, transformation, data validation and machine learning model development.
+
+<b>Data Engineer (BI)</b>                                                                                                                                            2014-2017
+* Responsible for creating automated ETL environment that integrates data from multiple and different geographical 
+locations into a data mart which is used in generating regulatory and compliance reports
+* Automated the process of DataStage job batch run which reduced the run time significantly from 10 hrs to 30mins 
+for a country for each run date.
 * Delivered high risk and critical parallel tasks in different LOB’s of around 15 countries with complete ownership 
 on 4 countries.
-* Responsible for data analysis, wrangling, integration, transformation, SQL query optimization, validation & 
-visualization.
 
 ## <font color='violet'>Machine Learning</font>
 
