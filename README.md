@@ -15,7 +15,7 @@ customer satisfaction
 * Translating business problems into automated solutions using ML models and simulation tools for insurance clients
 * Generating reports and communicating actionable insights to the stakeholders to improve the performance
 
-<b>TATA CONSULTANCY SERVICES LTD</b> – Hyderabad, India                                                                                                        2014 - Present 
+<b>TATA CONSULTANCY SERVICES LTD</b> – Hyderabad, India                                                                                                            2014 - 2021 
 
 ** Client: A Fortune 500 banking client (2014-19)
 
