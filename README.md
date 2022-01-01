@@ -7,11 +7,19 @@
 * <b>B.Tech</b> in Electronics & Communication Engineering 2009-2013, JNTU, Kakinada, India <b>CGPA: 9.0</b>
 
 ## <font color='olive'>Professional Experience</font>
+
+<b>ACCENTURE</b> – Bengaluru, India                                                                                                                             
+<b>Data Science Consultant</b>                                                                                                                                  2021 - Present 
+* Working in strategy and operations domain, leading data analytics team in developing predictive ML app for 
+customer satisfaction
+* Translating business problems into automated solutions using ML models and simulation tools for insurance clients
+* Generating reports and communicating actionable insights to the stakeholders to improve the performance
+
 <b>TATA CONSULTANCY SERVICES LTD</b> – Hyderabad, India                                                                                                        2014 - Present 
 
 ** Client: A Fortune 500 banking client (2014-19)
 
-<b>Data Scientist</b>                                                                                                                                                2017-2019
+<b>Sr Data Scientist</b>                                                                                                                                             2017-2019
 * Worked on Big data migration and AI integration project
 * Responsible for creating visualizations for exploratory data analysis
 * Worked on data cleaning, transformation, data validation and machine learning model development.
